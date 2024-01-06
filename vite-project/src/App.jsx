@@ -44,6 +44,7 @@ function App() {
           <br />
           <br />
           <p className='creator'>Website was created by Andrew Shaposhnik</p>
+          <div></div>
         </section>
       </div>
     </>
